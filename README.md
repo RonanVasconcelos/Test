@@ -1,4 +1,3 @@
 # Test
 Testing the features
-
-adding text to the readme
+people value scores more than inteligence
